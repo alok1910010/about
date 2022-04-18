@@ -1,0 +1,9 @@
+.eth1{
+     border-style:groove;
+     background-color: rgb(230, 228, 228);
+     width: auto;
+     border: 1px solid rgb(210, 211, 210);
+     padding: 5px;
+     margin: 15px;
+
+}
